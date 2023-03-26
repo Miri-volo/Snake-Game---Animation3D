@@ -1,0 +1,9 @@
+# Directories
+build
+external
+igl/doc
+.vs
+.idea
+.cache
+
+# Files
